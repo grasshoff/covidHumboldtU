@@ -2,7 +2,7 @@
 
 (Prof. Dr. Gerd Graßhoff, Faculty of Philosophy, Humboldt University of Berlin, Germany)
 
-In order to illustrate the impact of the corona pandemic for the Humboldt University subpopulation, I set the parameters for a SEIR disease model, programmed by Gabriel Goh: The university population comprises (even more) than 300 000 persons in close contact. They include students, staff, administration, their close families. To make the temporal scales easy to read, we assume February 1 2020, as day 0 for the first infection. The temporal progression of the numbers can be estimated by adding a mean month of 30 days (e.g. April 1 = day 60, May 1 = 90, June 1 = day 120, July 1 = day 150).
+In order to illustrate the impact of the corona pandemic for the Humboldt University subpopulation, I set the parameters for a SEIR disease model, programmed by Gabriel Goh: The university population comprises (even more) than 300 000 persons in socially close contact. They include students, staff, administration, their close families. To make the temporal scales easy to read, we assume February 1 2020, as day 0 for the first infection. The temporal progression of the numbers can be estimated by adding a mean month of 30 days (e.g. April 1 = day 60, May 1 = 90, June 1 = day 120, July 1 = day 150).
 
 
 ![](assets/markdown-img-paste-20200329150300283.png)

@@ -1,4 +1,4 @@
-# Modeling COVID dissemination
+# Modeling COVID
 
 (Prof. Dr. Gerd Graßhoff, Faculty of Philosophy)
 

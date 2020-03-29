@@ -11,4 +11,4 @@ In order to illustrate the impact of the corona pandemic for the Humboldt Univer
 
 The model assumes an initial epidemiological dissemination with a basic reproduction number R0 = 2.0 as a key measure for the degree of infection. At day 50 (3rd week of March) an intervention with social distancing reduces the basic infection rate to R0=0.7. Soon after the intervention the total number of diagnosed infected persons will decrease, while the number of infectious people peaks around day 75, hospitalized people day 80.
 
-For the summer semester the beginning of adjusted teaching at 20th April just before the modeled peak the epidemic with a high rate of endangered population well into the summer.
+For the summer semester the beginning of adjusted teaching at 20th April lies just before the modeled peak the epidemic with a high rate of endangered population.
